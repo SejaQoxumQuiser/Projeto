@@ -1,0 +1,3 @@
+/home/eve/Documents/4sem/estrutura_dados/estrume/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/eve/Documents/4sem/estrutura_dados/estrume/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/eve/Documents/4sem/estrutura_dados/estrume/cmake-build-debug/CMakeFiles/estrume.dir

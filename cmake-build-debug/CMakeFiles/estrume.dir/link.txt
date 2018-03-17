@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/estrume.dir/main.cpp.o  -o estrume 
